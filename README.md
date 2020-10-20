@@ -28,7 +28,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/backend_estudos_node>
+$ git clone <https://github.com/eziolemes/backend_estudos_node>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd backend
