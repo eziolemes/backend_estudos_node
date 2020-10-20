@@ -8,5 +8,12 @@
 - ESLint
 - Prettier
 
+### Features
 
+- [x] Configuração de ferramentas de otimização e organização do código
+- [x] Configuração da base da API (Server.ts)
+- [ ] Criação dos end-points
 
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>
